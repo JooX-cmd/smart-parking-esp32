@@ -161,9 +161,9 @@ lib_deps =
 
 ## 👨‍💻 Author
 
-**Mohammed (Joox)**
+** Joox**
 - IoT & AI Developer @ VoltX
-- CS Student @ Helwan University '27
+- CS Student @ Helwan University 
 
 ## 📄 License
 
